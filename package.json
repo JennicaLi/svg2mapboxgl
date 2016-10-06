@@ -1,0 +1,15 @@
+{
+  "name": "svg2geojson",
+  "version": "1.0.0",
+  "description": "convert svg to mapbox gl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jennica",
+  "license": "ISC",
+  "dependencies": {
+    "tape": "^4.6.0",
+    "xml2js": "^0.4.17"
+  }
+}
