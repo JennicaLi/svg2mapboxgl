@@ -1,6 +1,6 @@
 {
   "name": "svg2geojson",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "convert svg to mapbox gl",
   "main": "index.js",
   "scripts": {
